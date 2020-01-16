@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+}
+.container-fluid {
+    margin-top: 150px;
+    text-align: center;
+}
+.generator {
+    font-size: 24px;
+}
